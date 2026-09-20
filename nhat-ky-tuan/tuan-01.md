@@ -30,7 +30,7 @@ Kim Nguyên Khôi không kịp hoàn thành báo cáo và review nên Nguyễn C
 | 8 | Job 1742 - 25 ảnh, Segmentation | Nguyễn Công Thành | Nguyễn Công Thành, Kim Nguyên Khôi | ✅ 100% | Đã hoàn thành |
 | 7 | Job 1744 - 25 ảnh, Segmentation | Lưu Quang Hùng | Nguyễn Công Thành, Kim Nguyên Khôi | ✅ 100% | Đã hoàn thành |
 | 8 | Job 1745 - 25 ảnh, Segmentation | Nguyễn Văn Trọng | Nguyễn Công Thành, Kim Nguyên Khôi | ✅ 100%  Đã hoàn thành| |
-| 9 | Job 17xx - 25 ảnh, Segmentation | Nguyễn Phương Thảo | Nguyễn Công Thành, Kim Nguyên Khôi | ⬜ 0% | Không hợp tác với nhóm, đến ngày cuối mới báo ốm để trốn tránh công việc và nhóm cũng không thể hỗ trợ kịp thời vì đã cận hạn nộp báo cáo |
+| 9 | Job 1743 - 25 ảnh, Segmentation | Nguyễn Phương Thảo | Nguyễn Công Thành, Kim Nguyên Khôi | ⬜ 0% | Không hợp tác với nhóm, đến ngày cuối mới báo ốm để trốn tránh công việc và nhóm cũng không thể hỗ trợ kịp thời vì đã cận hạn nộp báo cáo |
 | 10 | Đọc lại guideline Semantic Segmantation | Nguyễn Công Thành, Kim Nguyên Khôi | — | ✅ 100% | Đã hoàn thành |
 
 ## Tổng kết
