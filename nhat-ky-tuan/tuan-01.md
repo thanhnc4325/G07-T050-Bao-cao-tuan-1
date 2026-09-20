@@ -37,20 +37,12 @@ Kim Nguyên Khôi không kịp hoàn thành báo cáo và review nên Nguyễn C
 
 - Đã gán: 154 / 200 ảnh (77%)
 - Qua review lần đầu: 49,4% (trả lại 39 ảnh)
-- Edge case mới: P-001, P-002, P-003, P-004, P-005, P-006 — đã chốt P-001 thành [QĐ-001](../so-quyet-dinh.md#qđ-001)
+
 
 ## Vướng mắc
 
-- P-002 (xe bị che khuất) chưa chốt, đang đợi Lead đã gửi câu hỏi lên BTC.
-- P-003: vẽ lại box y hệt qua các frame liên tiếp mất ~40% thời gian job 105.
-  Đang cân nhắc làm tool trong [`source-tool/`](../source-tool/).
-- P-004 (biển không xác định) chưa chốt, đang đợi Lead đã gửi câu hỏi lên BTC.
-- P-005 (đèn giao thông không tín hiệu) chưa chốt, đang đợi Lead đã gửi câu hỏi lên BTC.
-- P-006 (dải phân cách thấp) chưa chốt, đang đợi Lead đã gửi câu hỏi lên BTC.
-- P-007 
 
-## Kế hoạch phần còn tuần 1
+## Kế hoạch tuần 2
 
-- Chốt P-002, P-003, P-004, P-005, P-006.
-- Xong các job còn lại.
-- Quyết định có làm tool cho P-003 hay dùng chế độ Track sẵn có của CVAT.
+- Kiểm điểm lại thái độ của một số thành viên, nếu cần thì nhờ admin can thiệp 
+- Cố gắng hoàn thành trước thời hạn
