@@ -24,14 +24,14 @@ Kim Nguyên Khôi không kịp hoàn thành báo cáo và review nên Nguyễn C
 |---|---|---|---|---|---|
 | 1 | Job 1525 — 25 ảnh, Bbox, polygon, polyline | Lưu Quang Hùng | Nguyễn Công Thành | ✅ 100% | Đã hoàn thành |
 | 2 | Job 1527 — 25 ảnh, Bbox, polygon, polyline | Nguyễn Văn Trọng | Nguyễn Công Thành | ✅ 100% | Đã hoàn thành  |
-| 3 | Job 1524 — 25 ảnh, Bbox, polygon, polyline | Nguyễn Phương Thảo | Nguyễn Công Thành | 🟡 50% | Chưa hoàn thành polygon, polyline từ 16/09/2026 |
-| 4 | Job 1522 — 25 ảnh, Bbox, polygon, polyline | Kim Nguyên Khôi | Nguyễn Công Thành | ✅ 100% | Mới làm dở 1 ảnh, 24 ảnh chưa làm |
+| 3 | Job 1524 — 25 ảnh, Bbox, polygon, polyline | Nguyễn Phương Thảo | Nguyễn Công Thành | 🟡 30% | BBOX còn sai nhưng không sửa, chưa hoàn thành polygon, polyline từ 16/09/2026 |
+| 4 | Job 1522 — 25 ảnh, Bbox, polygon, polyline | Kim Nguyên Khôi | Nguyễn Công Thành | 🟡 15% | Mới làm 5 ảnh và còn sai nhưng chưa sửa |
 | 5 | Đọc lại guideline Bounding Box, Polygon & Polyline, gom các ca chưa rõ | Nguyễn Công Thành | — | ✅ 100% | |
-| 8 | Job 1742 - 25 ảnh, Segmentation | Nguyễn Công Thành | Nguyễn Công Thành, Kim Nguyên Khôi | ✅ 100% | Đã hoàn thành |
-| 7 | Job 1744 - 25 ảnh, Segmentation | Lưu Quang Hùng | Nguyễn Công Thành, Kim Nguyên Khôi | ✅ 100% | Đã hoàn thành |
-| 8 | Job 1745 - 25 ảnh, Segmentation | Nguyễn Văn Trọng | Nguyễn Công Thành, Kim Nguyên Khôi | ✅ 100%  Đã hoàn thành| |
-| 9 | Job 1743 - 25 ảnh, Segmentation | Nguyễn Phương Thảo | Nguyễn Công Thành, Kim Nguyên Khôi | ⬜ 0% | Không hợp tác với nhóm, đến ngày cuối mới báo ốm để trốn tránh công việc và nhóm cũng không thể hỗ trợ kịp thời vì đã cận hạn nộp báo cáo |
-| 10 | Đọc lại guideline Semantic Segmantation | Nguyễn Công Thành, Kim Nguyên Khôi | — | ✅ 100% | Đã hoàn thành |
+| 8 | Job 1742 - 25 ảnh, Segmentation | Nguyễn Công Thành | Nguyễn Công Thành | ✅ 100% | Đã hoàn thành |
+| 7 | Job 1744 - 25 ảnh, Segmentation | Lưu Quang Hùng | Nguyễn Công Thành | ✅ 100% | Đã hoàn thành |
+| 8 | Job 1745 - 25 ảnh, Segmentation | Nguyễn Văn Trọng | Nguyễn Công Thành | ✅ 100%  Đã hoàn thành| |
+| 9 | Job 1743 - 25 ảnh, Segmentation | Nguyễn Phương Thảo | Nguyễn Công Thành | ⬜ 0% | Không hợp tác với nhóm, đến ngày cuối mới báo ốm để trốn tránh công việc và nhóm cũng không thể hỗ trợ kịp thời vì đã cận hạn nộp báo cáo |
+| 10 | Đọc lại guideline Semantic Segmantation | Nguyễn Công Thành | — | ✅ 100% | Đã hoàn thành |
 
 ## Tổng kết
 
